@@ -1,0 +1,1 @@
+# json-class-info
